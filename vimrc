@@ -86,7 +86,7 @@ set mouse=a
 " Activation de NERDTree au lancement de vim
 autocmd vimenter * NERDTree
 
-" Racourcis pour reduire NERDTree
+" Raccourcis pour reduire NERDTree
 nmap <F2> :NERDTreeToggle<CR>
 
 " Desactive les touches directionnelles
@@ -99,6 +99,6 @@ imap <down> <nop>
 imap <left> <nop>
 imap <right> <nop>
 
-" Racourcis touche ESC
+" Raccourcis touche ESC
 imap ii <Esc>
 map ii <Esc>
