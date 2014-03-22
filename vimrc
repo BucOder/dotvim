@@ -1,6 +1,6 @@
 " VIM Configuration - Romain (BucOder) SOMMERARD
 "
-" Plugin - Pathogen, Solarized, NERDTree, Vim-airline, Syntastic
+" Plugin - Pathogen, Solarized, NERDTree, Vim-airline
 "
  
 " Annule la compatibilite avec l'encetre Vi
